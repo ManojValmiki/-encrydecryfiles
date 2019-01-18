@@ -1,2 +1,2 @@
-getpass
-pyAesCrypt
+getpass>=3.6
+pyAesCrypt>=3.6
